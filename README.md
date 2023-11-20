@@ -11,8 +11,6 @@ As a seasoned SOC Analyst, Cloud Security Automation Engineer, and Security Soft
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ivan&layout=compact&theme=dark)
 
-![Ivan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=i-am-ivan&show_icons=true&theme=dark)
-
 ---
 
 ### 🌐 Connect with Me
