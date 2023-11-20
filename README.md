@@ -1,4 +1,7 @@
-# Hi there! 👋 I'm Ivan Kuria, aka [i-am-ivan](https://github.com/i-am-ivan)
+## Hi there! 👋
+
+# I'm Ivan Kuria, 
+### aka [i-am-ivan](https://github.com/i-am-ivan)
 
 🌟 Welcome to my multifaceted journey, where I navigate the diverse landscapes of cybersecurity, data engineering, and technology optimization.
 
