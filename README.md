@@ -9,9 +9,10 @@ Dive into my repositories, where 7+ years of tech alchemy blend seamlessly. From
 
 🌟 Repo Highlights:
 
-🤖 Security Automation Scripts: Unleash the power of automated defenses.
-🚀 Bespoke Security Software: Code that doesn't just run; it protects.
-🌐 Cloud Security Wonders: Elevating your digital journey to new heights.
+🤖 Security Automation Scripts: Unleash the power of automated defenses.<br />
+🚀 Bespoke Security Software: Code that doesn't just run; it protects.<br />
+🌐 Cloud Security Wonders: Elevating your digital journey to new heights.<br />
+
 Let's code the future of cybersecurity together. Join me on this thrilling tech adventure! #CodeArtisan #CyberMaverick #TechAlchemy
 
 ## 🔧 Skills & Tools
