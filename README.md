@@ -20,4 +20,8 @@ As a seasoned SOC Analyst, Cloud Security Automation Engineer, and Security Soft
 
 ### :hammer_and_wrench: Languages and Tools :
 
-![JS](https://img.shields.io/badge/JS-JavaScript-fcba03?labelColor=fcba03&style=for-the-badge&logo=JS&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-fcba03?style=for-the-badge&logoColor=white)
+![Python](https://img.shields.io/badge/Python-6a02ba?style=for-the-badge&logoColor=white)
+![Java](https://img.shields.io/badge/Java-fc2008?style=for-the-badge&logoColor=white)
+![C/C++](https://img.shields.io/badge/C/C++-031e94?style=for-the-badge&logoColor=white)
+![Go](https://img.shields.io/badge/Go-047cc7?style=for-the-badge&logoColor=white)
