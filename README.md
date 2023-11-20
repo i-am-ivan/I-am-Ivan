@@ -1,7 +1,8 @@
-## Hi there! 👋
+<!-- Header Image -->
+![Header Image](link-to-your-header-image)
 
-# I'm Ivan Kuria, 
-### aka [i-am-ivan](https://github.com/i-am-ivan)
+## Hi there! 👋 
+# I'm Ivan Kuria, aka [i-am-ivan](https://github.com/i-am-ivan)
 
 🌟 Welcome to my multifaceted journey, where I navigate the diverse landscapes of cybersecurity, data engineering, and technology optimization.
 
@@ -9,6 +10,11 @@
 - **Cybersecurity:** SOC Analyst, Cloud Security Automation Engineer, Security Software Developer
 - **Data Engineering:** Data Architecture, Database Administration, Data Science
 - **Tech Optimization:** CI/CD, DeSecOps, Pentesting, Compliance Audits
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/ivan-j-kuria-p/)
+- [Twitter](https://twitter.com/@jovicorp-studio/)
+- [Portfolio Website](https://ivankuria.com/)
 
 ## 🛠️ Current Projects
 - [Project 1: Project Name](link-to-project)
@@ -23,10 +29,9 @@
 ## 💬 Beyond Tech
 - Let's discuss philosophy, books, travel, or anything that fuels your curiosity!
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ivan-j-kuria-p/)
-- [Twitter](https://twitter.com/@jovicorp-studio/)
-- [Portfolio Website](https://ivankuria.com/)
+## 📫 How to Reach Me
+- [Email](mailto:your-email@example.com)
+- [LinkedIn Messages](https://www.linkedin.com/in/ivan-j-kuria-p/)
 
 ## ⚡ Fun Fact
 - Did you know [interesting fact]?
