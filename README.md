@@ -1,12 +1,18 @@
-<!-- Header Image -->
-![Header Image](link-to-your-header-image)
-
 ## Hi there! 👋 
+<!-- Header Image -->
+![Header Image](link-to-your-header-image) 
+
 # I'm Ivan Kuria, aka [i-am-ivan](https://github.com/i-am-ivan)
+🚀 Code Artisan | Cyber Maverick | Tech Fusionist
 
-## About
+Dive into my repositories, where 7+ years of tech alchemy blend seamlessly. From IT support roots in 2014 to data engineering exploits in 2015, I've forged a path through software development since 2017, culminating in over 3 years of dedicated cybersecurity expertise from 2020 onward.
 
-Welcome to my multifaceted journey, where I navigate the diverse landscapes of cybersecurity, data engineering, and technology optimization.
+🌟 Repo Highlights:
+
+🤖 Security Automation Scripts: Unleash the power of automated defenses.
+🚀 Bespoke Security Software: Code that doesn't just run; it protects.
+🌐 Cloud Security Wonders: Elevating your digital journey to new heights.
+Let's code the future of cybersecurity together. Join me on this thrilling tech adventure! #CodeArtisan #CyberMaverick #TechAlchemy
 
 ## 🔧 Skills & Tools
 - **Cybersecurity:** SOC Analyst, Cloud Security Automation Engineer, Security Software Developer
