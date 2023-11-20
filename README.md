@@ -4,7 +4,9 @@
 ## Hi there! 👋 
 # I'm Ivan Kuria, aka [i-am-ivan](https://github.com/i-am-ivan)
 
-🌟 Welcome to my multifaceted journey, where I navigate the diverse landscapes of cybersecurity, data engineering, and technology optimization.
+## About
+
+Welcome to my multifaceted journey, where I navigate the diverse landscapes of cybersecurity, data engineering, and technology optimization.
 
 ## 🔧 Skills & Tools
 - **Cybersecurity:** SOC Analyst, Cloud Security Automation Engineer, Security Software Developer
