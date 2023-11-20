@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm
 
-#Ivan Kuria 
+# Ivan Kuria 
 
 <!--
 **i-am-ivan/I-am-Ivan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
