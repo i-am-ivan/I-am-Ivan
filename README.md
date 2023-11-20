@@ -1,4 +1,4 @@
-# Hello!👋 I'm **IVAN KURIA**
+# Hi!👋 I'm **IVAN KURIA**
 ### Seasoned SOC Analyst & Security Software Developer
 
 ---
@@ -18,6 +18,7 @@ As a seasoned SOC Analyst, Cloud Security Automation Engineer, and Security Soft
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
 
+--- 
 ### :hammer_and_wrench: Languages and Tools :
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
