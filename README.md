@@ -1,5 +1,5 @@
 # Hello!👋 I'm **IVAN KURIA**
-### Seasoned SOC Analyst | Cloud Security Engineer | Security Software Developer
+### Seasoned SOC Analyst & Security Software Developer
 
 ---
 
