@@ -2,7 +2,7 @@
 <!-- Header Image -->
 ![Header Image](https://www.canva.com/design/DAFzkd6ZolM/8VKC3WAXUZc8DJ43k7Ovhw/view?utm_content=DAFzkd6ZolM&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
 
-## 🚀 Code Artisan | Cyber Maverick | Tech Fusionist
+## 🚀 Seasoned SOC Analyst | Cloud Security Engineer | Security Software Developer
 
 Dive into my repositories, where 7+ years of tech alchemy blend seamlessly. From IT support roots in 2014 to data engineering exploits in 2015, I've forged a path through software development since 2017, culminating in over 3 years of dedicated cybersecurity expertise from 2020 onward.
 
