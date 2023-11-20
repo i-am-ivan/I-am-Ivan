@@ -1,47 +1,25 @@
-## Hi👋 
-<!-- Header Image -->
-![Header Image](https://www.canva.com/design/DAFzkd6ZolM/8VKC3WAXUZc8DJ43k7Ovhw/view?utm_content=DAFzkd6ZolM&utm_campaign=designshare&utm_medium=link&utm_source=editor) 
+# Hello!👋 I'm **IVAN KURIA**
+### Seasoned SOC Analyst | Cloud Security Engineer | Security Software Developer
 
-## 🚀 Seasoned SOC Analyst | Cloud Security Engineer | Security Software Developer
+### About Me
+Self-taught and passionate about technology, I embarked on a journey that unfolded from IT support in 2014 to data engineering and software development. Since 2020, I've dedicated over three years to cybersecurity, blending technical acumen with a relentless pursuit of self-directed learning.
 
-Dive into my repositories, where 7+ years of tech alchemy blend seamlessly. From IT support roots in 2014 to data engineering exploits in 2015, I've forged a path through software development since 2017, culminating in over 3 years of dedicated cybersecurity expertise from 2020 onward.
+As a seasoned SOC Analyst, Cloud Security Automation Engineer, and Security Software Developer, my GitHub repositories showcase the alchemy of seven years of diverse skills. Beyond code, my commitment to continuous learning propels me to stay ahead in the dynamic tech landscape. Let's explore, innovate, and learn together in this ever-evolving world of cybersecurity and technology optimization.
 
-🌟 Repo Highlights:
+## Skills
 
-🤖 Security Automation Scripts: Unleash the power of automated defenses.<br />
-🚀 Bespoke Security Software: Code that doesn't just run; it protects.<br />
-🌐 Cloud Security Wonders: Elevating your digital journey to new heights.<br />
+### 🔝 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ivan&layout=compact&theme=dark)
 
-Let's code the future of cybersecurity together. Join me on this thrilling tech adventure! #CodeArtisan #CyberMaverick #TechAlchemy
+### 📊 Statistics
+![Ivan's GitHub Statistics](https://github-readme-stats.vercel.app/api?username=i-am-ivan&show_icons=true&theme=dark)
 
-## 🔧 Skills & Tools
-- **Cybersecurity:** SOC Analyst, Cloud Security Automation Engineer, Security Software Developer
-- **Data Engineering:** Data Architecture, Database Administration, Data Science
-- **Tech Optimization:** CI/CD, DeSecOps, Pentesting, Compliance Audits
+### 🛡️ Badges
+**Skills:** SOC Analysis, Cloud Security, Security Software Development, CI/CD, DeSecOps, Pentesting, Compliance Audits. 
+<br /><br />
+![Cybersecurity Badge](badge-link) ![Cloud Security Badge](badge-link) ![Software Development Badge](badge-link) 
 
-## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/ivan-j-kuria-p/)
-- [Twitter](https://twitter.com/@jovicorp-studio/)
-- [Portfolio Website](https://ivankuria.com/)
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
 
-## 🛠️ Current Projects
-- [Project 1: Project Name](link-to-project)
-- [Project 2: Project Name](link-to-project)
-
-## 🌱 Currently Learning
-- Exploring new technologies and frameworks to elevate my skills.
-
-## 👯 Looking to Collaborate On
-- Open source projects transcending cybersecurity, data engineering, or any tech optimization endeavors.
-
-## 💬 Beyond Tech
-- Let's discuss philosophy, books, travel, or anything that fuels your curiosity!
-
-## 📫 How to Reach Me
-- [Email](mailto:your-email@example.com)
-- [LinkedIn Messages](https://www.linkedin.com/in/ivan-j-kuria-p/)
-
-## ⚡ Fun Fact
-- Did you know [interesting fact]?
-
-Thanks for visiting! Let's embark on a holistic journey, embracing technology and beyond. 🚀✨
+Thank you for stopping by! Let's code and innovate together. 🚀✨
