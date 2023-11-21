@@ -25,7 +25,7 @@ Seeking to leverage security domain knowledge and technical capabilities to cont
   ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white&style=flat)
   ![R](https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=flat)
   ![Rust](https://img.shields.io/badge/-Rust-000000?logo=rust&logoColor=white&style=flat)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
+  ![Assembly](https://img.shields.io/badge/-Assembly-008080?logo=assembly&logoColor=white&style=flat)
 
 #### Frameworks:
 
@@ -33,6 +33,7 @@ Seeking to leverage security domain knowledge and technical capabilities to cont
   ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
   ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-EF4223?logo=codeigniter&logoColor=white&style=flat)
   ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white&style=flat)
 
 #### Database and Storage:
 
