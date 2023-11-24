@@ -12,8 +12,6 @@ Seeking to leverage security domain knowledge and technical capabilities to cont
 
 ### :hammer_and_wrench: SKILLS:
 
-#### Programming Languages:
-
   ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white&style=flat)
   ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
   ![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white&style=flat)
