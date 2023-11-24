@@ -1,4 +1,4 @@
-# I'm **IVAN KURIA**
+# I'm **IVAN**
 ### Security Analyst | Security Software Developer | Application Security Engineer 
 
 Seasoned security professional with over 5 years of experience spanning software development, application security, and threat analysis. Core skills include secure coding in Python, C/C++, Java, JavaScript, and Assembly language, risk assessments, penetration testing, and security operations.
