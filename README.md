@@ -1,17 +1,15 @@
 # I am **IVAN**
-Security Software Developer | Application Security Engineer 
+Backend Engineer | Application Security Engineer | DevSecOps Engineer 
 
-Accomplished information security professional with over 5 years of experience spanning software development, application security, and threat analysis. Core expertise includes secure coding in Node.js, Python, Go, C/C++, Rust, and Assembly language, risk assessments, penetration testing, and security operations.
+Seasoned professional with over 5 years of experience in backend development, application security, and DevSecOps. My work encompasses designing and developing secure software, conducting comprehensive security analyses, and implementing robust authentication, authorization, and encryption mechanisms. Adept at providing technical support, participating in code reviews, and staying abreast of the latest security threats and vulnerabilities.
 
 ### **Key Skills:**
-- Secure coding practices
-- Risk analysis
-- Penetration testing
-- Security analysis tools
-- Identity & access management
-- Network security
-- Cryptography fundamentals
-- Cloud security
+- Backend Engineering: Expertise in C/C++, Go/Golang, Java, JavaScript, PHP, and Python for developing scalable and secure backend systems.
+- Application Security: Proficient in secure coding practices, penetration testing, vulnerability assessments, and threat modeling to ensure software integrity.
+- Cloud Security: Strong understanding of securing cloud environments and implementing best practices for cloud security.
+- DevSecOps: Skilled in integrating security into the DevOps lifecycle, utilizing CI/CD pipelines, and automating security checks to streamline secure software delivery.
+- Risk Analysis: Ability to perform detailed risk assessments and develop strategies to mitigate security risks.
+- Cryptography
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
