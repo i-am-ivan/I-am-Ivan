@@ -11,8 +11,6 @@ Seasoned professional with over 5 years of experience in backend development, ap
 - Risk Analysis: Ability to perform detailed risk assessments and develop strategies to mitigate security risks.
 - Cryptography
 
-    <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ivan&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
-
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
 
@@ -27,6 +25,8 @@ Seasoned professional with over 5 years of experience in backend development, ap
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
   ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+
+  <img alt="Ivan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ivan&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
 
 #### Databases:
   ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
