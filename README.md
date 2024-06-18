@@ -4,12 +4,12 @@
 Seasoned professional with over 5 years of experience in backend development, application security, and DevSecOps. My work encompasses designing and developing secure software, conducting comprehensive security analyses, and implementing robust authentication, authorization, and encryption mechanisms. Adept at providing technical support, participating in code reviews, and staying abreast of the latest security threats and vulnerabilities.
 
 ### **Key Skills:**
-- Backend Engineering
 - Application Security
+- Backend Engineering
 - Cloud Security
+- Cryptography
 - DevSecOps
 - Risk Analysis: Ability to perform detailed risk assessments and develop strategies to mitigate security risks.
-- Cryptography
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
