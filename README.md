@@ -4,10 +4,10 @@
 Seasoned professional with over 5 years of experience in backend development, application security, and DevSecOps. My work encompasses designing and developing secure software, conducting comprehensive security analyses, and implementing robust authentication, authorization, and encryption mechanisms. Adept at providing technical support, participating in code reviews, and staying abreast of the latest security threats and vulnerabilities.
 
 ### **Key Skills:**
-- Backend Engineering: Expertise in C/C++, Go/Golang, Java, JavaScript, PHP, and Python for developing scalable and secure backend systems.
-- Application Security: Proficient in secure coding practices, penetration testing, vulnerability assessments, and threat modeling to ensure software integrity.
-- Cloud Security: Strong understanding of securing cloud environments and implementing best practices for cloud security.
-- DevSecOps: Skilled in integrating security into the DevOps lifecycle, utilizing CI/CD pipelines, and automating security checks to streamline secure software delivery.
+- Backend Engineering
+- Application Security
+- Cloud Security
+- DevSecOps
 - Risk Analysis: Ability to perform detailed risk assessments and develop strategies to mitigate security risks.
 - Cryptography
 
