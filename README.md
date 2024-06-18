@@ -1,5 +1,5 @@
 # I am **IVAN**
-Backend Engineer | Application Security Engineer | DevSecOps Engineer 
+### Backend Engineer | Application Security Engineer | DevSecOps Engineer 
 
 Seasoned professional with over 5 years of experience in backend development, application security, and DevSecOps. My work encompasses designing and developing secure software, conducting comprehensive security analyses, and implementing robust authentication, authorization, and encryption mechanisms. Adept at providing technical support, participating in code reviews, and staying abreast of the latest security threats and vulnerabilities.
 
@@ -11,7 +11,7 @@ Seasoned professional with over 5 years of experience in backend development, ap
 - Risk Analysis: Ability to perform detailed risk assessments and develop strategies to mitigate security risks.
 - Cryptography
 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ivan"/>
+    <img alt="Hud0shnik's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ivan&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
