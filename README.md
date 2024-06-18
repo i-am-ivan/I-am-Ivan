@@ -11,6 +11,8 @@ Seasoned professional with over 5 years of experience in backend development, ap
 - Risk Analysis: Ability to perform detailed risk assessments and develop strategies to mitigate security risks.
 - Cryptography
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-am-ivan"/>
+
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/) [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/@jovicorp-studio/)](https://twitter.com/@jovicorp-studio/)
 
