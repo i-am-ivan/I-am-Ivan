@@ -1,7 +1,7 @@
 # I am **IVAN**
-### Backend Engineer | Application Security Engineer | DevSecOps Engineer 
+### Solutions Architect | Software Security Engineer
 
-Seasoned professional with over 5 years of experience in backend development, application security, and DevSecOps. My work encompasses designing and developing secure software, conducting comprehensive security analyses, and implementing robust authentication, authorization, and encryption mechanisms. Adept at providing technical support, participating in code reviews, and staying abreast of the latest security threats and vulnerabilities.
+Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, cloud architecture, and DevSecOps. Expertise in designing secure, scalable systems using modern technologies and collaborating with cross-functional teams to ensure robust security in CI/CD processes. Committed to leveraging technology for innovative business solutions.
 
 ### **Key Skills:**
 - Application Security
@@ -19,11 +19,11 @@ Seasoned professional with over 5 years of experience in backend development, ap
 #### Programming Languages:
   <img alt="Ivan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ivan&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
   
-  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
   ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
   ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### Databases:
   ![CockroachLabs](https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white)
