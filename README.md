@@ -1,5 +1,6 @@
-# I am **IVAN**
-### Solutions Architect | Software Security Engineer
+# I am **IVAN** **Kuira**
+
+### Experinced Solutions Architect | Software Security Engineer
 
 Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, cloud architecture, and DevSecOps. Expertise in designing secure, scalable systems using modern technologies and collaborating with cross-functional teams to ensure robust security in CI/CD processes. Committed to leveraging technology for innovative business solutions.
 
