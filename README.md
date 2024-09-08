@@ -1,4 +1,4 @@
-# I am **IVAN** **Kuira**
+# I am **IVAN** **KURIA**
 
 ### Experinced Solutions Architect | Software Security Engineer
 
