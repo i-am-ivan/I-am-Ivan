@@ -2,7 +2,7 @@
 
 ### Experinced Backend & Platform Engineer
 
-Dynamic software and cloud Solutions Architect with 7+ years of experience in software security engineering, platform engineering, and DevOps. Expertise in designing secure, scalable systems using modern technologies and collaborating with cross-functional teams to ensure robust security in CI/CD processes. Committed to leveraging technology for innovative business solutions.
+Dynamic Backend & Platform Engineer with 4+ years of corporate experience in Fintech, Saccos, finance, e-commerce, and logistics. Specializing in SaaS, platform engineering, and backend engineering on the cloud, with expertise in AWS, Go, NodeJs, and Python. Skilled in designing secure, scalable systems and collaborating with cross-functional teams to enhance security in CI/CD processes. Committed to leveraging technology for innovative and impactful business solutions.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/)
