@@ -2,14 +2,7 @@
 
 ### Backend & Application Security Engineer | DevSecOps
 
-DevSecOps engineer with 8+ years production experience securing and scaling microservices in Go, Java Spring, and Python on Azure/AWS. Currently Platform Engineer at Jovicorp. Proven at shifting security left, reducing vulnerabilities 85 %, building custom FIM tools, and hardening OAuth flows for millions of tokens/day. Open to remote/hybrid roles.
-
-### What I actually deliver
-- OAuth2 + OIDC systems handling **2 M+ tokens/day** (PKCE, rotation, zero-trust)
-- Reduced production vulnerabilities **85 %** by embedding Trivy + custom SAST/DAST in CI/CD
-- Built custom **File Integrity Monitoring (FIM)** tool → detection time from hours to **<3 min**
-- Cut cloud spend **28 %** and led monolith → Kubernetes microservices migrations
-- Open-source digital forensics & incident-response tooling
+DevSecOps engineer with 8+ years production experience securing and scaling microservices in Go, Java Spring, and Python on Azure/AWS. Currently Platform Engineer at Jovicorp. Proven at shifting security left, reducing vulnerabilities, building custom FIM tools, and hardening OAuth flows for millions of tokens/day. Open to remote/hybrid roles.
 
 ### Featured Projects
 <a href="https://github.com/i-am-ivan/RESTful-API-with-Spring-Framework">
