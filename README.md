@@ -4,35 +4,38 @@
 
 DevSecOps engineer with 8+ years production experience securing and scaling microservices in Go, Java Spring, and Python on Azure/AWS. Currently Platform Engineer at Jovicorp. Proven at shifting security left, reducing vulnerabilities 85 %, building custom FIM tools, and hardening OAuth flows for millions of tokens/day. Open to remote/hybrid roles.
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/)
+Currently Platform Engineer at Jovicorp — owning security for the internal PaaS that powers 40+ services.
 
-### :hammer_and_wrench: 
+### What I actually deliver
+- OAuth2 + OIDC systems handling **2 M+ tokens/day** (PKCE, rotation, zero-trust)
+- Reduced production vulnerabilities **85 %** by embedding Trivy + custom SAST/DAST in CI/CD
+- Built custom **File Integrity Monitoring (FIM)** tool → detection time from hours to **<3 min**
+- Cut cloud spend **28 %** and led monolith → Kubernetes microservices migrations
+- Open-source digital forensics & incident-response tooling
 
-#### Programming Languages I commonly work with:
-  <img alt="Ivan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=i-am-ivan&langs_count=4&layout=compact&theme=react&bg_color=1F222E&title_color=68C3D4&icon_color=F8D866&border_color=1F222E&hide=JavaScript,CSS,Java,HTML,c%2B%2B,Ren'Py" height="198px"/>
-  
-  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white)
-  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-  
-  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+### Featured Projects
+<a href="https://github.com/i-am-ivan/oauth2-oidc-reference">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=oauth2-oidc-reference&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/i-am-ivan/fim-forensics-tool">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=fim-forensics-tool&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/i-am-ivan/secure-cicd-template">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=secure-cicd-template&theme=tokyonight&hide_border=true" />
+</a>
 
-#### Cloud Platforms:
+<br clear="both"/>
 
-  ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+### Tech stack I use daily
+![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
 
-#### DevOps:
-  ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-  ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-  ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-  ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
-
-### Frameworks, Platforms and Libraries:
-  ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-  ![JAVAFX](https://img.shields.io/badge/javafx-%23FF0000.svg?style=for-the-badge&logo=javafx&logoColor=white)
-  ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-  ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+### Let’s talk
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivan--j--kuria--p-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/ivan-j-kuria-p)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ivankuria.com-000000?logo=vercel&logoColor=white)](https://ivankuria.com)
