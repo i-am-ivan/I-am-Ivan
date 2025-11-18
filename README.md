@@ -1,8 +1,8 @@
 # I am **IVAN** **KURIA**
 
-### Experinced Backend & Platform Engineer
+### Backend & Application Security Engineer | DevSecOps
 
-Dynamic Backend & Platform Engineer with 4+ years of corporate experience in Fintech, Saccos, finance, e-commerce, and logistics. Specializing in SaaS, platform engineering, and backend engineering on the cloud, with expertise in AWS, Go, NodeJs, and Python. Skilled in designing secure, scalable systems and collaborating with cross-functional teams to enhance security in CI/CD processes. Committed to leveraging technology for innovative and impactful business solutions.
+DevSecOps engineer with 8+ years production experience securing and scaling microservices in Go, Java Spring, and Python on Azure/AWS. Currently Platform Engineer at Jovicorp. Proven at shifting security left, reducing vulnerabilities 85 %, building custom FIM tools, and hardening OAuth flows for millions of tokens/day. Open to remote/hybrid roles.
 
 ### 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/ivan-j-kuria-p/)](https://www.linkedin.com/in/ivan-j-kuria-p/)
