@@ -14,8 +14,8 @@ Currently Platform Engineer at Jovicorp — owning security for the internal Paa
 - Open-source digital forensics & incident-response tooling
 
 ### Featured Projects
-<a href="https://github.com/i-am-ivan/oauth2-oidc-reference">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo= RESTful-API-with-Spring-Framework &theme=tokyonight&hide_border=true" />
+<a href="https://github.com/i-am-ivan/RESTful-API-with-Spring-Framework">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=RESTful-API-with-Spring-Framework&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/i-am-ivan/fim-forensics-tool">
   <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=fim-forensics-tool&theme=tokyonight&hide_border=true" />
