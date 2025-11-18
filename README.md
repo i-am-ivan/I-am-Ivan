@@ -4,8 +4,6 @@
 
 DevSecOps engineer with 8+ years production experience securing and scaling microservices in Go, Java Spring, and Python on Azure/AWS. Currently Platform Engineer at Jovicorp. Proven at shifting security left, reducing vulnerabilities 85 %, building custom FIM tools, and hardening OAuth flows for millions of tokens/day. Open to remote/hybrid roles.
 
-Currently Platform Engineer at Jovicorp — owning security for the internal PaaS that powers 40+ services.
-
 ### What I actually deliver
 - OAuth2 + OIDC systems handling **2 M+ tokens/day** (PKCE, rotation, zero-trust)
 - Reduced production vulnerabilities **85 %** by embedding Trivy + custom SAST/DAST in CI/CD
@@ -17,11 +15,11 @@ Currently Platform Engineer at Jovicorp — owning security for the internal Paa
 <a href="https://github.com/i-am-ivan/RESTful-API-with-Spring-Framework">
   <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=RESTful-API-with-Spring-Framework&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/i-am-ivan/fim-forensics-tool">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=fim-forensics-tool&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/i-am-ivan/PHP-OOP-OAuth">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=PHP-OOP-OAuth&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/i-am-ivan/secure-cicd-template">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=secure-cicd-template&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/i-am-ivan/Multithreading-in-Java">
+  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=Multithreading-in-Java&theme=tokyonight&hide_border=true" />
 </a>
 
 <br clear="both"/>
