@@ -4,6 +4,8 @@
 
 DevSecOps engineer with 8+ years production experience securing and scaling microservices in Go, Java Spring, and Python on Azure/AWS. Currently Platform Engineer at Jovicorp. Proven at shifting security left, reducing vulnerabilities, building custom FIM tools, and hardening OAuth flows for millions of tokens/day. Open to remote/hybrid roles.
 
+[![GitHub Streak – Ivan Kuria](https://streak-stats.demolab.com/?user=i-am-ivan&theme=tokyonight&hide_border=true&background=0D1117&stroke=1F6FEB&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB)](https://git.io/streak-stats)
+
 ### Featured Projects
 <a href="https://github.com/i-am-ivan/RESTful-API-with-Spring-Framework">
   <img align="left" height="170" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=RESTful-API-with-Spring-Framework&theme=tokyonight&hide_border=true" />
