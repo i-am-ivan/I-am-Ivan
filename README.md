@@ -2,7 +2,7 @@
 
 **Backend & Application Security Engineer | DevSecOps**
 
-Experienced SOC Analyst → now shifting security left and shipping production-grade microservices in **Go • Java • Python** on Azure & AWS.
+Experienced Backend Engineer → now shifting security left and shipping production-grade microservices in **Go • Java • Python** on Azure & AWS.
 
 <br clear="both"/>
 
