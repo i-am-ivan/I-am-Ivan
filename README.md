@@ -2,7 +2,7 @@
 
 **Backend & Application Security Engineer | DevSecOps | Automation Integrations**
 
-Experienced Backend Engineer → now shifting security left and shipping production-grade microservices in **Go • Java • Python** on Azure & GCP.
+Experienced Backend Engineer → **Go • Java • Python** on Azure & GCP.
 
 <br clear="both"/>
 
