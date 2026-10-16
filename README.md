@@ -1,15 +1,9 @@
 # Hello, I'm Ivan Kuria
 
-**Backend & Application Security Engineer | DevSecOps | Automation Integrations**
+**Backend Engineer | DevSecOps | AppSec | Solution Architect**
 
 Experienced Backend Engineer → **Go • Java • Python** on Azure & GCP.
 
-<br clear="both"/>
-
-### My Builds
-<a href="https://github.com/i-am-ivan/oauth2-oidc-reference">
-  <img align="left" height="165" src="https://github-readme-stats.vercel.app/api/pin/?username=i-am-ivan&repo=oauth2-oidc-reference&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
 <br clear="both"/>
 
 ## About
@@ -26,7 +20,6 @@ Experienced Backend Engineer → **Go • Java • Python** on Azure & GCP.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white&style=flat)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?logo=microsoftazure&logoColor=white&style=flat)
-![Trivy](https://img.shields.io/badge/Trivy-1E9C9A?logo=trivy&logoColor=white&style=flat)
 
 ### Let’s talk
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivan--j--kuria--p-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://linkedin.com/in/ivan-j-kuria-p)
