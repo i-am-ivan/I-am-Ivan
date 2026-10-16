@@ -1,6 +1,6 @@
 # Hello, I'm Ivan
 
-**Backend Engineer | DevSecOps | AppSec | Solution Architect**
+**Backend Engineer - DevSecOps | AppSec | Solution Architect**
 
 Experienced Backend Engineer → **Go • Java • Python** on Azure & GCP.
 
