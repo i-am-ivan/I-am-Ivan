@@ -1,4 +1,4 @@
-# Hello, I'm Ivan Kuria
+# Hello, I'm Ivan
 
 **Backend Engineer | DevSecOps | AppSec | Solution Architect**
 
