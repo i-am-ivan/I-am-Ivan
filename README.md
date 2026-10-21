@@ -1,8 +1,26 @@
 # Hello, I'm Ivan
 
-**Backend Engineer - DevSecOps | AppSec | Solution Architect**
+**Backend Platform Engineer** with a clear progression from infrastructure foundations to modern platform engineering.
 
-Experienced Backend Engineer → **Go • Java • Python** on Azure & GCP.
+I started in networking and system administration, moved into database engineering, then built production backend systems in PHP/Laravel before transitioning into Python, TypeScript/Node.js, and cloud-native platforms. Today I design and operate the backend platforms, integrations, and automation that let products scale securely.
+
+I specialize in:
+
+• Backend platform architecture and service integrations
+
+• Infrastructure automation and secure multi-tenant systems
+
+• Azure cloud environments and Databricks for data + AI workloads
+
+• Embedding security (AppSec & DevSecOps) throughout the delivery lifecycle
+
+• Payment systems and Fintech integrations (including M-Pesa)
+
+Over 5+ years I’ve delivered production systems across Fintech, Logistics, and AgriTech — with a consistent focus on reliability, security, and developer experience.
+
+Currently building platform integrations and infrastructure automation at Jovicorp Studio, including Azure infrastructure, Python-based platform services, and Databricks environments that support data engineering and AI workloads.
+
+Open to Backend Platform Engineer, Platform Engineer, and AI Platform Engineer roles.
 
 <br clear="both"/>
 
