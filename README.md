@@ -2,7 +2,7 @@
 
 **Backend Platform Engineer** with a clear progression from infrastructure foundations to modern platform engineering.
 
-I started in networking and system administration, moved into database engineering, then built production backend systems in PHP/Laravel before transitioning into Python, TypeScript/Node.js, and cloud-native platforms. Today I design and operate the backend platforms, integrations, and automation that let products scale securely.
+I started in networking and system administration, moved into database engineering, then built production backend systems in PHP/Laravel before transitioning into Go, Python, TypeScript/Node.js, and cloud-native platforms. Today I design and operate the backend platforms, integrations, and automation that let products scale securely.
 
 I specialize in:
 
